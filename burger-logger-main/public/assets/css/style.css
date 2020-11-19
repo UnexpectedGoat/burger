@@ -1,0 +1,24 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: tan;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  #guypic {
+    width: 294px;
+    height: 197px;
+  }
