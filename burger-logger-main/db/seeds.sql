@@ -1,3 +1,4 @@
-INSERT INTO burgers (name) VALUES ("Bacon Bleu Burger");
-INSERT INTO burgers (name) VALUES ("Big Mac");
-INSERT INTO burgers (name) VALUES ("Dick's Burger");
+INSERT INTO burgers (name) VALUES ("In and Out");
+INSERT INTO burgers (name) VALUES ("Whoppers");
+INSERT INTO burgers (name) VALUES ("Checkers");
+INSERT INTO burgers (name) VALUES ("TRIPLE STACK MEAT TOWER");
